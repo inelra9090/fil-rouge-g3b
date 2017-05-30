@@ -1,0 +1,3376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+	<Document>
+		<name>GPS Visualizer data</name>
+		<Style id="waypoint">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>1</scale>
+				<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon56.png</href></Icon>
+				<hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3> <div style="margin-top:8px;">$[description]</div>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id="track">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="polygon">
+			<LineStyle>
+				<color>ff9900ff</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>409900ff</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>Waypoints</name>
+			<Placemark>
+				<name>Arqom</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.1174335,-0.2031608</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jembayan</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.1598876,-0.1041555</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mahakam Sumber Jaya</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2023630,-0.0699949</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indominco Mandiri</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2720146,0.0775909</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tandung Mayang</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2830439,0.1478432</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sangatta</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.4931145,0.5918779</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Perkasa Inakakerta</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.6367950,0.7810351</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bengalon</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.5465441,0.7909047</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indominco</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2140360,-0.2762021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Embalut</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.0935297,-0.3264553</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gunungbayan</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.8844891,-0.4173051</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bukit Baiduri</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.0783806,-0.4278191</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Abadi</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2894061,-0.4100955</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ECI</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2543335,-0.6441028</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delta</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2184134,-0.7125480</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Loa Janan</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.0689392,-0.6485657</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Batuah</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.0958686,-0.8039711</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ombilin</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>100.8025217,-0.5997739</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mamahak</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.4142952,0.4594468</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Trubaindo</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.7036304,-0.5823083</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Teguh Sinarabadi</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.7897186,-0.3673957</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kideco</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.8549500,-1.8721491</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Petangis</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.0653639,-2.1333436</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marawai</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>114.8448944,-0.0652313</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bharinto Ekatama</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.3953266,-0.8258343</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tutupan</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.5219269,-2.1967272</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paringin</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.4939461,-2.2850652</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sepapah</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.2224770,-2.7290272</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sang Sang</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.2097740,-2.7859099</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Senakin East</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.2772369,-2.8434757</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baramarta</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.2632332,-3.2095894</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ata</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.6853485,-3.2223581</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sebuku</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.3383484,-3.5206172</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Satui</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.3349018,-3.6945082</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wbm</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.3804779,-3.7846955</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Assam Assam North</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.0670242,-3.8656248</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Assam Assam West</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.0306320,-3.8979944</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jorong</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>114.9991322,-3.9010557</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peranap</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>101.5576172,0.6536723</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tanjung Enim</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>103.7883568,-3.7354491</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Merapi</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>103.6336470,-3.7738187</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dartbrook</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.8965302,-32.1892331</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mangoola</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.6942916,-32.2958484</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Pleasant</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.8297163,-32.2510769</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bengalla</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.8379078,-32.2614429</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Muswellbrook No 2</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.9368706,-32.2485952</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Arthur</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.8695364,-32.3318909</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Drayton</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.9248543,-32.3555306</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Drayton South</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.8577347,-32.4092408</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Liddell</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0157919,-32.3871010</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cumnock UG</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0013294,-32.4024291</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ravensworth UG</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0189998,-32.4051557</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cumnock</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.9931755,-32.4127551</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hunter Valley</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.9732628,-32.4445952</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ravensworth North</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0092688,-32.4412632</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ravensworth West</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0084534,-32.4593342</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Narama</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0417557,-32.4715364</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glendell</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0767746,-32.4348886</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ashton</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0819244,-32.4630277</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ashton UG</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0763025,-32.4672278</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Integra UG</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.1342597,-32.4654536</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Integra</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.1238956,-32.4853660</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rix's Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.1204195,-32.5007860</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>United</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.9908795,-32.5485134</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wambo</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.9914589,-32.5682627</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Warkworth</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0717964,-32.6033378</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Thorley</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0637283,-32.6392303</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bulga</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.0852718,-32.6692201</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beltana</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.1057854,-32.6896290</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Blakefield</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.1102057,-32.6895568</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blair Athol</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.5251007,-22.6865679</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clermont</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.6322174,-22.7106395</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carborough Downs</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.2426023,-21.9925958</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Millenium</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.2361221,-22.0090690</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Poitrel</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.2569361,-22.0367586</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Daunia</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.2965469,-22.0576416</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moorvale</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.3806610,-21.9828463</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peak Downs</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.2321310,-22.2801617</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saraji</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.2760334,-22.3667452</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vermont</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.4215164,-22.4023396</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lake Vermont</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.4263229,-22.4736994</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Norwich</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.5010815,-22.7852821</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Burton</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.1729507,-21.6130683</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Goonyella</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.9597902,-21.6615364</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eaglefield</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.9599190,-21.6742192</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goonyella Riverside</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.9709053,-21.7307994</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Broadmeadow</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.9880714,-21.7900274</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moranbah North</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.9621506,-21.8783853</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grosvenor</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.0062675,-21.9680417</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ellensfield</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.1720066,-21.7395696</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Broadmeadow West</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.1388760,-21.7754419</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Broadmeadow East</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.1474590,-21.7999893</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Broadlea North</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.1667709,-21.8517801</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Isaac Plains</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.1153584,-21.9606389</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moranbah South</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.1026554,-22.0562893</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caval Ridge</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.0582809,-22.1376447</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Middlemount</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.6354601,-22.8388048</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capcoal Central</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.5642529,-22.9123099</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capcoal Grasstree</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.5377741,-22.9824564</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capcoal</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.6448479,-22.9316779</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Foxleigh</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.7718773,-22.9652689</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lake Lindsay</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.7559128,-23.0456953</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oakay Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.5009527,-23.0739675</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gregory</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.3701897,-23.1936239</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crinum</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.3218241,-23.2081396</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kestrel</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.3648467,-23.2343072</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ensham</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.4960175,-23.4684427</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washpool</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.7316227,-23.3978023</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Curragh</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.8751316,-23.4908790</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jellinbah East</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.9438820,-23.3832285</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yarrabee</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>149.0321159,-23.2869226</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dingo West</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>149.2666054,-23.6412219</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blackwater</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.8032055,-23.6952277</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Togara North</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.5530090,-23.8679431</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Minerva</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.0469513,-23.9206780</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blackwater South</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.8186550,-23.9069470</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cook</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.8890791,-23.8271216</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rolleston</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.4101868,-24.4377730</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Narrabri North</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>149.8888779,-30.5155406</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maules Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.1576138,-30.5668431</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boggabri</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.1597595,-30.6113227</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tarrawonga</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.1652527,-30.6346626</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canyon</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.1767540,-30.7390324</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rocglen</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.2670479,-30.7630053</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sunnyside</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.1128960,-30.9845262</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Watermark</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.3378582,-31.2442142</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caroona</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.4195261,-31.3990701</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Werris Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.6328583,-31.3937951</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baralaba</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>149.8009872,-24.1536456</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Callide Boundary Hill</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.4979324,-24.2046977</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Callide Trap Gulley</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.5611038,-24.2901562</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Callide Hut</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.6271935,-24.2673103</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Callide Dunn Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.6263351,-24.3155010</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dawson</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.0591660,-24.4983960</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Woori</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.0409698,-26.2363037</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cameby Downs</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.3458405,-26.6497601</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kogan Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.7849503,-26.9303347</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wilkie Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>150.9562683,-27.0461310</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Meandu</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.8923378,-26.8072186</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Acland</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.7105484,-27.2772126</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Oakleigh</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>152.5755501,-27.6149497</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jeebropilly</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>152.6607800,-27.6599639</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Commodore</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>151.2666321,-27.9398203</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newlands</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.0253220,-21.2045781</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wollombi Suttor Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.9079056,-21.3696458</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hail Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.3892441,-21.4840604</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Collinsville</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.7757263,-20.5421503</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coppabella</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.4443474,-21.8519394</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Walker Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>148.4692383,-21.7760795</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sonoma</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>147.8569221,-20.6170397</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wodgina</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>118.6650467,-21.2000969</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Abydos</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.1130829,-21.1491942</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Iron Bridge</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.0595245,-21.2589813</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Miralga Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.4419861,-20.9676912</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Pilbara</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.1252708,-21.5753997</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nimingarra</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>120.0187683,-20.4154300</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yarrie</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>120.2920532,-20.6212170</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goldsworthy</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.5312500,-20.3497773</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pardoo</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.1280174,-20.2439987</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ridley</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.1251850,-20.2555944</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Webber</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.2833710,-21.5361244</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corunna Downs</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.6699524,-21.4735175</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McPhee Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>120.1451111,-21.5501753</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nullagine</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.9246979,-22.0417310</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cloud Break</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.4163227,-22.3387236</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Christmas Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.8109722,-22.3965864</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yandi</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.0312862,-22.7209320</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marillana</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.2222595,-22.5899223</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phils Creek</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.1853309,-22.7341924</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yandicoogina</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.2256069,-22.7640729</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Iron Valley</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.3350410,-22.7470556</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nyidinghu</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.3582153,-22.7011381</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Area C</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>118.9534378,-22.9239310</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hope Downs</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.1075897,-22.9504899</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Solomon</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.9974556,-22.1781856</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marandoo</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>118.1263733,-22.6384121</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brockman 4</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.2586679,-22.5900016</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Western Turner Syncline</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.5869274,-22.6631258</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Tom Price</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.7665710,-22.7523589</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paraburdoo</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.6067114,-23.2270312</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eastern Range</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.6798820,-23.2620467</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Channar</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.7851534,-23.3070644</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Angelas</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>118.7738800,-23.1782387</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Whaleback</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>119.6792650,-23.3673137</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jimblebar</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>120.1124954,-23.3827558</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jigalong</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>120.6216431,-23.4254487</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nammuldi</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.3381901,-22.4144404</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brockman</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>117.3449707,-22.4278691</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spinifex Ridge</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>120.0823689,-20.8863197</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sino</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.1491776,-21.0700842</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mesa A</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>115.8922863,-21.6670005</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mesa J</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.2497711,-21.7512091</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Robe River</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>116.5330553,-21.6986244</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carajas</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-50.1673508,-6.0598187</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alegria Samarco</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.4959030,-20.1610320</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Germano</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.5074902,-20.2065483</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fabrica Nova</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.4493828,-20.2013126</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capanema</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.6188126,-20.1866517</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fazendao</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.4177113,-20.1271077</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Timbopeba</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.5195494,-20.2611906</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maquine</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.4213591,-20.3406433</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Itabira</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.2698250,-19.6560866</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caue</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.2246780,-19.6020836</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bau</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.1729007,-19.7900857</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brucutu</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.3844090,-19.8651358</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Agua Limpia</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.2230902,-19.9428130</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gongo Soco</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.6004448,-19.9601187</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corrego deMeio</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.7884676,-19.8629462</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tamandua</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9439392,-20.0934984</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capitao do Mato</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9243269,-20.1177993</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aboboras</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.8780642,-20.1522897</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mar Azul</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9598823,-20.0298265</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Matuca</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9611590,-20.0290302</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capao Xavier</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9745164,-20.0516580</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serra da Moeda</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9747846,-20.1542336</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pico</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.8682365,-20.2359456</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Minas Rio</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.4313583,-18.8755494</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corumba</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-57.5860190,-19.0050981</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corumba2</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-57.6296854,-19.1988367</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Urucum</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-57.5642020,-19.2108631</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gregorio Curvo</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-57.4570370,-19.6117861</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serra Sul</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-50.2523232,-6.4429062</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jambreiro</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-42.8924596,-18.5740229</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serro</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.3843607,-18.5514389</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Itapa</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.3718294,-18.8071499</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Apolo</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.6865330,-20.0433128</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aguas Claras</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9026761,-19.9583841</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mina do Pires</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.8705540,-20.4280584</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa de Pedra</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-43.9200783,-20.4674655</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Itaminas</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-44.1016102,-20.0844702</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jangada</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-44.0907955,-20.0976092</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corrego de Feijao</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-44.1306210,-20.1094576</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Minerminas</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-44.3064880,-20.1167113</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serra Azul</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-44.3793154,-20.1272285</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Itatiaiucu</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-44.4559622,-20.1605083</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serra Leste</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.75</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Mine.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>-49.6287632,-5.9665220</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Tracks</name>
+			<Placemark>
+				<name>Central Kalimantan</name>
+				<description><![CDATA[Length: 567.7 km (352.7 mi)<br/>Area: 19896 sq.km (7682 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff9900ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>409900ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								114.9197388,0.6124761 116.0321045,0.4559278 115.7409668,-0.9585124 114.6011353,-0.7168392 114.9197388,0.6124761 114.9197388,0.6124761 114.9197388,0.6124761 114.9197388,0.6124761 114.9197388,0.6124761
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>South Sumatra</name>
+				<description><![CDATA[Length: 79.99 km (49.7 mi)<br/>Area: 281.3 sq.km (108.6 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.5653687,-3.7272268 103.8647461,-3.6874847 103.8345337,-3.7642264 103.6120605,-3.8217783 103.5653687,-3.7272268 103.5653687,-3.7272268 103.5653687,-3.7272268 103.5653687,-3.7272268
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Riau</name>
+				<description><![CDATA[Length: 48.41 km (30.08 mi)<br/>Area: 141.1 sq.km (54.48 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								101.4999390,0.6756435 101.6152954,0.7168392 101.6592407,0.6179690 101.5466309,0.5987440 101.4999390,0.6756435 101.4999390,0.6756435 101.4999390,0.6756435 101.4999390,0.6756435
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>West Sumatra</name>
+				<description><![CDATA[Length: 24.6 km (15.29 mi)<br/>Area: 34.28 sq.km (13.24 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								100.7638550,-0.5795189 100.8366394,-0.5781457 100.8448792,-0.6193422 100.7926941,-0.6248350 100.7638550,-0.5795189 100.7638550,-0.5795189 100.7638550,-0.5795189 100.7638550,-0.5795189
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>State of Mato Grosso do Sul</name>
+				<description><![CDATA[Length: 230.3 km (143.1 mi)<br/>Area: 2761 sq.km (1066 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-57.7688599,-18.9400623 -57.4365234,-18.9374644 -57.3294067,-19.6374139 -57.6480103,-19.6762118 -57.7688599,-18.9400623 -57.7688599,-18.9400623 -57.7688599,-18.9400623 -57.7688599,-18.9400623 -57.7688599,-18.9400623
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>State of Para</name>
+				<description><![CDATA[Length: 309.4 km (192.3 mi)<br/>Area: 5220 sq.km (2016 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-49.6005249,-5.6843168 -49.4494629,-6.1023219 -50.2377319,-6.5172724 -50.4876709,-6.1296314 -49.6005249,-5.6843168 -49.6005249,-5.6843168
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>South Kalimantan2</name>
+				<description><![CDATA[Length: 81.01 km (50.34 mi)<br/>Area: 317 sq.km (122.4 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								116.1639404,-2.6193264 116.3507080,-2.8552628 116.2545776,-2.8909235 116.1392212,-2.7866814 116.1639404,-2.6193264 116.1639404,-2.6193264
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>South Kalimantan1</name>
+				<description><![CDATA[Length: 447 km (277.8 mi)<br/>Area: 10169 sq.km (3926 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								115.1202393,-3.0993784 115.8425903,-3.1898792 116.4385986,-3.4722988 116.3562012,-3.6943369 115.4992676,-3.8368508 114.9334717,-4.0149596 115.1202393,-3.0993784 115.1202393,-3.0993784
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>South Kalimantan3</name>
+				<description><![CDATA[Length: 238 km (147.9 mi)<br/>Area: 3340 sq.km (1289 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								115.3289795,-2.1061539 115.8837891,-1.7493009 116.1557007,-2.1281116 115.5651855,-2.3668802 115.4443359,-2.3257161 115.3289795,-2.1061539 115.3289795,-2.1061539
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>East Kalimantan1</name>
+				<description><![CDATA[Length: 311.6 km (193.6 mi)<br/>Area: 5751 sq.km (2221 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								117.2076416,0.2526847 117.4438477,0.1345824 117.4108887,-0.3927582 117.1801758,-0.8733793 116.9577026,-0.8376777 116.7874146,-0.3735325 117.2076416,0.2526847 117.2076416,0.2526847
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>East Kalimantan2</name>
+				<description><![CDATA[Length: 129.1 km (80.21 mi)<br/>Area: 990.1 sq.km (382.3 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Style>
+					<LineStyle><color>ff8000ff</color><width>3</width></LineStyle>
+					<PolyStyle><color>408000ff</color><colorMode>normal</colorMode><fill>1</fill><outline>1</outline></PolyStyle>
+				</Style>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								117.4438477,0.9200654 117.7185059,0.7882442 117.5262451,0.5053645 117.3724365,0.5905047 117.4438477,0.9200654 117.4438477,0.9200654
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Pilbara</name>
+				<description><![CDATA[Length: 1251 km (777.1 mi)<br/>Area: 186653 sq.km (72067 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								120.7946777,-23.7149535 117.3504639,-23.7250117 115.6311035,-21.4275035 116.0238647,-20.9742631 116.4990234,-20.6122196 117.4383545,-20.1590983 119.7839355,-19.7822113 120.7452393,-19.8287254 120.7946777,-23.7149535
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Queensland East1</name>
+				<description><![CDATA[Length: 2601 km (1616 mi)<br/>Area: 257327 sq.km (99354 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								146.1950684,-21.7901071 147.3925781,-20.1694112 145.3930664,-18.7503098 145.3051758,-17.9107958 144.5910645,-17.0882912 145.8325195,-16.4360852 148.0407715,-19.5804935 149.9084473,-21.9430455 150.9411621,-23.4531680 151.7980957,-24.1567782 152.9296875,-25.3936605 147.8979492,-24.7168955 146.1950684,-21.7901071
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Queensland East2</name>
+				<description><![CDATA[Length: 1011 km (628.1 mi)<br/>Area: 101012 sq.km (39001 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								149.3701172,-26.0469128 152.8198242,-25.4035850 153.3471680,-27.1324798 153.5229492,-28.8350500 150.8422852,-28.3430649 149.3701172,-26.0469128
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>NSW Center East</name>
+				<description><![CDATA[Length: 1691 km (1051 mi)<br/>Area: 185040 sq.km (71444 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								150.6555176,-30.0881078 153.1713867,-29.4013195 153.2153320,-30.8173463 151.9189453,-33.0455078 150.5895996,-35.1019341 148.9416504,-35.0929453 148.4252930,-31.4942618 149.5788574,-30.1166216 150.6555176,-30.0881078
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>NSW Center East2</name>
+				<description><![CDATA[Length: 1230 km (764.3 mi)<br/>Area: 74637 sq.km (28818 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								141.9213867,-37.0113259 147.6562500,-37.1428034 146.8212891,-38.4277735 142.7014160,-38.5739375 141.6412354,-38.1604763 141.8225098,-37.3002753 141.9213867,-37.0113259
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Indonesia Ports</name>
+				<description><![CDATA[Length: 286.6 km (178.1 mi)<br/>Area: 4100 sq.km (1583 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								116.0760498,-1.7245930 116.8917847,-0.9337965 117.1142578,-1.0793429 116.3095093,-1.9332268 116.0760498,-1.7245930
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>State of Minas Gerais 1</name>
+				<description><![CDATA[Length: 795.8 km (494.5 mi)<br/>Area: 75191 sq.km (29031 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-44.7198486,-19.8803918 -42.8521729,-19.3837046 -42.4731445,-22.8318833 -44.4726563,-23.0544619 -44.7198486,-19.8803918
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>State of Minas Gerais 2</name>
+				<description><![CDATA[Length: 1314 km (816.2 mi)<br/>Area: 65797 sq.km (25405 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-43.5827637,-19.0205771 -43.5388184,-18.1876066 -39.7924805,-18.8647069 -39.9353027,-19.8493940 -41.0009766,-21.9430455 -41.5612793,-21.8818898 -41.5997314,-20.8023366 -41.1987305,-19.7356836 -42.4072266,-19.1036483 -43.5827637,-19.0205771
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>State of Minas Gerais 3</name>
+				<description><![CDATA[Length: 1213 km (753.7 mi)<br/>Area: 67317 sq.km (25991 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-41.1218262,-13.1650739 -43.3300781,-15.0509057 -43.0004883,-16.0141360 -40.4956055,-13.7954062 -38.7158203,-12.9617358 -37.9028320,-12.5760099 -38.1774902,-11.6737554 -41.1218262,-13.1650739
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Teresina</name>
+				<description><![CDATA[Length: 2831 km (1759 mi)<br/>Area: 232837 sq.km (89899 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-48.5925293,-4.9048868 -44.3078613,-2.1088987 -43.2861328,-2.5040853 -42.9235840,-4.4778565 -41.3085938,-4.6640300 -40.0671387,-3.2611772 -38.3093262,-3.5353521 -38.3093262,-5.2331871 -39.2211914,-6.2825385 -45.0384521,-4.7789949 -47.8454590,-5.5066397 -48.5925293,-4.9048868
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>brazil south</name>
+				<description><![CDATA[Length: 2363 km (1468 mi)<br/>Area: 189556 sq.km (73188 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-55.9753418,-20.6841838 -47.2521973,-23.9962898 -46.7028809,-24.2068896 -45.7910156,-23.7451259 -47.0874023,-22.2179202 -51.0095215,-20.5299331 -55.6018066,-19.9320413 -56.3378906,-20.0249679 -55.9753418,-20.6841838
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Brazil West</name>
+				<description><![CDATA[Length: 3501 km (2175 mi)<br/>Area: 285593 sq.km (110268 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-57.8540039,-18.5941889 -62.9626465,-17.1512884 -63.4350586,-17.1302917 -63.8085938,-19.0828844 -64.5996094,-22.5328537 -69.1699219,-23.4229285 -70.1367188,-23.0898384 -70.2355957,-24.0263967 -68.2250977,-24.8764699 -66.2585449,-24.9462191 -64.1162109,-24.2770125 -62.3693848,-19.6736256 -58.6834717,-19.4976642 -57.8540039,-18.5941889
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Port1 Indo</name>
+				<description><![CDATA[Length: 255.6 km (158.8 mi)<br/>Area: 3164 sq.km (1222 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								103.8702393,-3.3955326 104.6859741,-2.9210970 104.8782349,-3.0143556 104.6859741,-3.2913402 104.1394043,-3.5051968 103.9224243,-3.4942309 103.8702393,-3.3955326
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Port 2 Indo</name>
+				<description><![CDATA[Length: 447.1 km (277.8 mi)<br/>Area: 5238 sq.km (2022 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								104.1998291,-3.9957805 104.4992065,-4.0478371 104.5129395,-4.3108076 104.7821045,-4.6311793 105.1144409,-4.8802576 105.2545166,-5.2359223 105.3973389,-5.4820340 105.2078247,-5.5066397 104.2987061,-4.3299790 104.1229248,-4.1163274 104.1998291,-3.9957805
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Port Indo 5</name>
+				<description><![CDATA[Length: 221.1 km (137.4 mi)<br/>Area: 1746 sq.km (674.2 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								100.4425049,-0.4078640 100.1431274,-0.5520544 100.3491211,-1.0354051 100.5455017,-0.9324234 100.3347015,-0.6756435 100.4083443,-0.5462182 100.7184505,-0.5735111 100.7017136,-0.4607342 100.4425049,-0.4078640
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Port Indo 6</name>
+				<description><![CDATA[Length: 208.7 km (129.7 mi)<br/>Area: 1592 sq.km (614.9 sq.mi)]]></description>
+				<visibility>1</visibility>
+				<styleUrl>#polygon</styleUrl>
+				<Polygon>
+					<extrude>1</extrude>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								102.0753479,1.4061088 102.0643616,1.1013116 102.0025635,0.9063343 101.9215393,0.8211999 101.8116760,0.7443028 101.8473816,0.6509259 102.1549988,0.6989878 102.2181702,0.8555285 102.1481323,1.3251077 102.1577454,1.3566847 102.1577454,1.3827698 102.0753479,1.4061088
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
